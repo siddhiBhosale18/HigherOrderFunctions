@@ -1,8 +1,6 @@
 // In Javascript, functions can be assigned to variables in the same way that strings or arrays can. They can be passed into other functions as parameters or returned from them as well. A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
 
-
-
-let radius = [4, 2, 1, 3];
+let radius = [4, 2, 1, 7];
 console.log(radius);
 /*
 const claculateArea = (arr) => {
